@@ -10,7 +10,7 @@
 				- Windows Functions
 				- CTE
 				- Temp Tables
-				- Creating Views,
+				- Creating Views
 */
 
 -- view table1 (deaths):
